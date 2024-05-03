@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183707890867",
+    "project_id": "wellness-warriors-4d0b9",
+    "storage_bucket": "wellness-warriors-4d0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183707890867:android:d4cd53b5667705eedeecc6",
+        "android_client_info": {
+          "package_name": "com.bibindia.wellnesswarriors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8XgKzPxwGc1d8Z3fVUI17xGdJG7x1dOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
